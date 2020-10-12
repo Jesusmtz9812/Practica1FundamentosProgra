@@ -4,5 +4,5 @@ Juegos actuales:Call of duty wardzone
 Juegos favoritos: Call of duty mobile, among us, fifa 
 Carrera: Ingenieria en computacion
 Especializion: Seguridad bancarea y paginas web 
-Materia:
-Semestre
+Materia: Fundamentos de programacion
+Semestre: 1
